@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm Dananjaya Senevirathne</h2>
 <p align="center">
- “Undergraduate Student @ IIT (University of Westminster) • Full-stack Developer (React + Spring Boot) • Sri Lanka 🇱🇰”
+ “Undergraduate Student @ IIT (University of Westminster)  • Sri Lanka 🇱🇰”
 </p>
 
 <p align="center">
