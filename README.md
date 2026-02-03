@@ -64,7 +64,7 @@
   Portfolio website to showcase projects, skills, and contact info in a clean layout.  
   **Key features:** Responsive UI, project showcase, smooth navigation, contact section  
   **Tech stack:** Next.js, React, Tailwind CSS  
-  🔗 YOUR_PORTFOLIO_LINK  
+  🔗 https://my-portfolio-bqw7-jjsrq56yw-dananjaya-senevirathnes-projects.vercel.app/ 
 
 - 🏡 **Property Selling Web App – React Project**  
   Web app for browsing and listing properties with search and filter options.  
